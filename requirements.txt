@@ -1,0 +1,9 @@
+Flask
+Flask-SQLAlchemy
+pandas
+openpyxl
+phonenumbers
+python-dotenv
+pytest
+
+Flask-Cors
